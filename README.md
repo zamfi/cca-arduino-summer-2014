@@ -7,7 +7,7 @@ This class repository contains homework assignments, useful guides, and code for
 Lecture:
 - Introduction
 - Discussion of goals, projects, robots, Arduino
-- Lots of digressions into very technical topics, including binary, coordinate systems, and trigonometry. (We'll talk more about these topics in the future, don't worry if you found today's concepts very hard! Lots of stuff will start to make sense once we get hands-on.)
+- Lots of digressions into very technical topics, including binary, coordinate systems, and trigonometry. (We went very quickly over these topics -- don't worry if they didn't make super much sense. We'll talk more about these topics in the future, and lots of stuff will start to make sense once we get hands-on.)
 
 Hands-on:
 - Arduino IDE
