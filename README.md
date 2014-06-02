@@ -19,5 +19,5 @@ Hands-on:
 - Watch the first episode of [AdaFruit's Circuit Playground](https://www.youtube.com/watch?v=exlRjDKHGRg)
 - Read through the [Blink tutorial](http://arduino.cc/en/Tutorial/Blink) that we talked about in class.
 - A bit more complicated: read through the [Digital Read Serial code](http://arduino.cc/en/Tutorial/DigitalReadSerial) -- it'll probably feel very complicated, don't worry about that.
-- Prof. Shiloh has a [sheet of basic math exercises](http://teachmetomake.com/wordpress/wp-content/uploads/2012/09/basicMathExercises.pdf). Do one out of every five exercises. Bring questions to Wednesday's class.
+- Prof. Shiloh has a [sheet of basic math exercises](http://teachmetomake.com/wordpress/wp-content/uploads/2012/09/basicMathExercises.pdf). Try to do one out of every five exercises. Bring questions to Wednesday's class.
 - Bring your laptop on Wednesday!
