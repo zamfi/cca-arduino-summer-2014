@@ -21,3 +21,18 @@ Hands-on:
 - A bit more complicated: read through the [Digital Read Serial code](http://arduino.cc/en/Tutorial/DigitalReadSerial) -- it'll probably feel very complicated, don't worry about that.
 - Prof. Shiloh has a [sheet of basic math exercises](http://teachmetomake.com/wordpress/wp-content/uploads/2012/09/basicMathExercises.pdf). Do one out of every five exercises. Bring questions to Wednesday's class.
 - Bring your laptop on Wednesday!
+
+
+### Wednesday, June 4, 2014
+
+Lecture:
+- Introduction to Arduino software & hardware
+- Basic circuit theory, discussion of common electronic components and circuits
+
+Hands-on:
+- Blink with Input
+- [Electronic Etch-a-Sketch](http://workshopweekend.net/arduino/projects/etch_a_sketch)
+
+Resources:
+- [Datasheet for your LED](http://www.jameco.com/Jameco/Products/ProdDS/2006730.pdf)
+- [Lecture slides](arduino-intro.pdf)
