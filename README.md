@@ -13,6 +13,35 @@ Hands-on:
 - Arduino IDE
 - Breadboard
 
+Videos:
+- Basic robots
+    - [Coffee-can robot](http://www.youtube.com/watch?v=b0mIshBIbvI#t=24)
+    - [Tree-climbing robot](http://www.youtube.com/watch?v=zkpH1BjD6Wc)
+    - [Self-balancing robot](http://www.youtube.com/watch?v=Tw9Jr-SPL0Y)
+    - [Insect robot](http://www.youtube.com/watch?v=tOsNXg2vAd4#t=120)
+    - [Treadbot](http://www.youtube.com/watch?v=YblSltHDbIU)
+    - [Velociraptor robot](http://www.youtube.com/watch?v=lPEg83vF_Tw)
+
+- Drink-makers
+    - [Textspresso](http://www.youtube.com/watch?v=kx9D74t7GD8#t=89)
+    - [The Inebriator](http://www.youtube.com/watch?v=WqY7fchs7H0)
+
+- Art bots
+    - [Arc-o-matic](http://vimeo.com/57082262#at=130)
+    - [Robo Faber](http://vimeo.com/78771257)
+    - [Eggbot](https://www.youtube.com/watch?v=w4cdbV2oaEc)
+
+- Computer Numerical Control (CNC)
+    - [Shapoko / tinyg](http://www.youtube.com/watch?v=pCC1GXnYfFI#t=11)
+    - [Makerbot Replicator](http://www.youtube.com/watch?v=NAbiAzYhTOQ)
+
+- Music
+    - [Laser harp](http://www.youtube.com/watch?v=sLVXmsbVwUs#t=20)
+
+- Vacuuming
+    - [Roomba](https://www.youtube.com/watch?v=0DNkbZvVYvc)
+
+
 #### Homework 1 (due Wednesday, June 4, 2014)
 
 - [Download](http://arduino.cc/en/Main/Software) and [install](http://arduino.cc/en/Guide/HomePage) the Arduino IDE (get version 1.0.5, not 1.5!) on your laptop.
@@ -30,9 +59,29 @@ Lecture:
 - Basic circuit theory, discussion of common electronic components and circuits
 
 Hands-on:
+- Using the multimeter
 - Blink with Input
+- `Serial.println`
 - [Electronic Etch-a-Sketch](http://workshopweekend.net/arduino/projects/etch_a_sketch)
 
 Resources:
 - [Datasheet for your LED](http://www.jameco.com/Jameco/Products/ProdDS/2006730.pdf)
 - [Lecture slides](arduino-intro.pdf)
+
+
+### Thursday, June 5, 2014
+
+Lecture:
+- Motors
+- Programming
+
+Hands-on:
+- Brushed DC motors
+- Servos
+- Arc-o-matic
+
+
+#### Homework 2 (due Monday, June 9, 2014)
+
+- Research intersting kinetic or electromechanical systems, like the ones in the videos we saw the first day (see Monday's entry above for links to the videos). Find some new ones, and post 5 [here](https://github.com/zamfi/cca-arduino-summer-2014/issues/1).
+- We'll spend some time next week building a mechanism like the ones in the [mechanisms handout](machinations-mechanisms.pdf). Design a mechanism to build next week, and be prepared to talk about in Monday. Start prototyping it, using wood, cardboard, paper, whatever you have. Doesn't have to be completely functional.
