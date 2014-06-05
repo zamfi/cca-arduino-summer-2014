@@ -84,4 +84,4 @@ Hands-on:
 #### Homework 2 (due Monday, June 9, 2014)
 
 - Research intersting kinetic or electromechanical systems, like the ones in the videos we saw the first day (see Monday's entry above for links to the videos). Find some new ones, and post 5 [here](https://github.com/zamfi/cca-arduino-summer-2014/issues/1).
-- We'll spend some time next week building a mechanism like the ones in the [mechanisms handout](machinations-mechanisms.pdf). Design a mechanism to build next week, and be prepared to talk about in Monday. Start prototyping it, using wood, cardboard, paper, whatever you have. Doesn't have to be completely functional.
+- We'll spend some time next week building a mechanism like the ones in the [mechanisms handout](machinations-mechanisms.pdf). Design a mechanism to build next week, and be prepared to talk about on Monday. Start prototyping it, using wood, cardboard, paper, whatever you have. Doesn't have to be completely functional.
