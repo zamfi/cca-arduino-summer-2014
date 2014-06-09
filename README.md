@@ -85,3 +85,14 @@ Hands-on:
 
 - Research intersting kinetic or electromechanical systems, like the ones in the videos we saw the first day (see Monday's entry above for links to the videos). Find some new ones, and post 5 [here](https://github.com/zamfi/cca-arduino-summer-2014/issues/1).
 - We'll spend some time next week building a mechanism like the ones in the [mechanisms handout](machinations-mechanisms.pdf). Design a mechanism to build next week, and be prepared to talk about on Monday. Start prototyping it, using wood, cardboard, paper, whatever you have. Doesn't have to be completely functional.
+
+
+### Monday, June 9, 2014
+
+Lecture:
+- Presentations
+
+Hands-on with motors:
+- Work through the [Adafruit DC motor reversing tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/overview).
+- This [Arduino Cheat Sheet](arduino-cheat-sheet.pdf) might be useful.
+- Here's a [cheat sheet for the L293D DC motor driver](arduino-dc-motors-l293d.pdf).
