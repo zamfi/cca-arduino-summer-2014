@@ -90,7 +90,7 @@ Hands-on:
 ### Monday, June 9, 2014
 
 Lecture:
-- Presentations
+- Presentations on Mechanisms
 
 Hands-on with motors:
 - Work through the [Adafruit DC motor reversing tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/overview).
