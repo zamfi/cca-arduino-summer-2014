@@ -96,3 +96,17 @@ Hands-on with motors:
 - Work through the [Adafruit DC motor reversing tutorial](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/overview).
 - This [Arduino Cheat Sheet](arduino-cheat-sheet.pdf) might be useful.
 - Here's a [cheat sheet for the L293D DC motor driver](arduino-dc-motors-l293d.pdf).
+- For a refresher on servo motors, see the [sweep tutorial](http://arduino.cc/en/Tutorial/sweep) on the Arduino site.
+
+#### Homework 3 (due Wednesday, June 11, 2014)
+
+- Bring any materials you need to complete your mechanism. Be prepared to make substantial progress on Wednesday. Remember, one goal is to motorize your mechanism, either with a servo motor or with a brushed DC motor.
+- See the resources list below for good places to get materials we didn't have in lab.
+
+
+## Resources
+
+Nearby resources, courtesy of Prof. Shiloh:
+- [Arch](http://www.archsupplies.com/): Art supply store. Easy walking distance.
+- [Center Hardware](http://www.centerhardware.com/): Hardware store. Easy walking distance.
+- [Tap Plastics](http://www.tapplastics.com/): All sorts of plastics, resins, and mold making supplies and tools. Laser cutting service.
