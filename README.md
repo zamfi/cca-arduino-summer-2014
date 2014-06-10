@@ -106,7 +106,7 @@ Hands-on with motors:
 
 ## Resources
 
-Nearby resources, courtesy of Prof. Shiloh:
+Nearby places to get materials, courtesy of Prof. Shiloh:
 - [Arch](http://www.archsupplies.com/): Art supply store. Easy walking distance.
 - [Center Hardware](http://www.centerhardware.com/): Hardware store. Easy walking distance.
 - [Tap Plastics](http://www.tapplastics.com/): All sorts of plastics, resins, and mold making supplies and tools. Laser cutting service.
