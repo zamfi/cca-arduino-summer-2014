@@ -104,9 +104,18 @@ Hands-on with motors:
 - See the resources list below for good places to get materials we didn't have in lab.
 
 
+### Wednesday, June 11, 2014
+
+Lecture:
+- Sensors
+    - Light-dependent resistor
+	  - Ultrasonic rangefinder [library](http://freecode.com/projects/hc-sr04-ultrasonic-arduino-library)
+
+
 ## Resources
 
 Nearby places to get materials, courtesy of Prof. Shiloh:
 - [Arch](http://www.archsupplies.com/): Art supply store. Easy walking distance.
 - [Center Hardware](http://www.centerhardware.com/): Hardware store. Easy walking distance.
 - [Tap Plastics](http://www.tapplastics.com/): All sorts of plastics, resins, and mold making supplies and tools. Laser cutting service.
+- [SF Laser](http://sflaser.io): Low-cost laser cutting service, next to Tech Shop.
