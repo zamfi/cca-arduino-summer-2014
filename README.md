@@ -106,10 +106,12 @@ Hands-on with motors:
 
 ### Wednesday, June 11, 2014
 
-Lecture:
+Lecture & hands-on:
 - Sensors
     - Light-dependent resistor
 	  - Ultrasonic rangefinder [library](http://freecode.com/projects/hc-sr04-ultrasonic-arduino-library)
+    - [Capacitive Sensing](http://playground.arduino.cc/Main/CapacitiveSensor)
+
 
 
 ## Resources
