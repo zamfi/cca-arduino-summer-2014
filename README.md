@@ -112,7 +112,19 @@ Lecture & hands-on:
 	  - Ultrasonic rangefinder [library](http://freecode.com/projects/hc-sr04-ultrasonic-arduino-library)
     - [Capacitive Sensing](http://playground.arduino.cc/Main/CapacitiveSensor)
 
+### Thursday, June 12, 2014
 
+Hands-on:
+- Mechanism building!
+Lecture:
+- Review of material so far -- Ohm's law, voltage, current, resistance, calculating LED resistor.
+
+
+Review materials:
+- [Current-limiting Resistor for LED](https://www.sparkfun.com/tutorials/219)
+- [Voltage divier](https://learn.sparkfun.com/tutorials/voltage-dividers/ideal-voltage-divider)
+- [Servo motor vs. DC motor](http://handyboard.com/hb/faq/hardware-faqs/dc-vs-servo/)
+- Know how and when to use `digitalRead`, `digitalWrite`, `analogRead`, and `analogWrite`. The [Arduino reference] may be helpful.
 
 ## Resources
 
