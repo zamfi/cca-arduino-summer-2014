@@ -122,7 +122,7 @@ Lecture:
 
 Review materials:
 - [Current-limiting Resistor for LED](https://www.sparkfun.com/tutorials/219)
-- [Voltage divier](https://learn.sparkfun.com/tutorials/voltage-dividers/ideal-voltage-divider)
+- [Voltage divider](https://learn.sparkfun.com/tutorials/voltage-dividers/ideal-voltage-divider)
 - [Servo motor vs. DC motor](http://handyboard.com/hb/faq/hardware-faqs/dc-vs-servo/)
 - Know how and when to use `digitalRead`, `digitalWrite`, `analogRead`, and `analogWrite`. The [Arduino reference](http://arduino.cc/en/Reference/HomePage) may be helpful.
 
