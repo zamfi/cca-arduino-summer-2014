@@ -126,6 +126,26 @@ Review materials:
 - [Servo motor vs. DC motor](http://handyboard.com/hb/faq/hardware-faqs/dc-vs-servo/)
 - Know how and when to use `digitalRead`, `digitalWrite`, `analogRead`, and `analogWrite`. The [Arduino reference] may be helpful.
 
+### Monday, June 16, 2014
+
+Lecture:
+- Review, continued.
+
+Projects:
+- Talk about final projects.
+
+### Wednesday, June 18, 2014
+
+Quiz!
+
+Lecture & hands-on:
+- Programming with arrays and loops.
+
+#### Homework (due Thursday, June 19, 2014)
+
+Produce a preliminary list of materials for your final project.
+
+
 ## Resources
 
 Nearby places to get materials, courtesy of Prof. Shiloh:
