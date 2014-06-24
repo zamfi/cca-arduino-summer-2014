@@ -145,6 +145,21 @@ Lecture & hands-on:
 
 Produce a preliminary list of materials for your final project.
 
+### Thursday, June 19, 2014
+
+Lecture & hands-on: 
+- Programming basics
+
+
+### Monday, June 23, 2014
+
+Final project time
+
+#### Homework (due Wedneday, June 25, 2014)
+
+- Download [Processing](http://processing.org) and do the first three tutorials: [Getting Started](http://processing.org/tutorials/gettingstarted), [Overview](http://processing.org/tutorials/overview), and [Coordinate System and Shapes](http://processing.org/tutorials/drawing).
+- Come up with three topics you want to learn about in our remaining time.
+
 
 ## Resources
 
