@@ -153,12 +153,25 @@ Lecture & hands-on:
 
 ### Monday, June 23, 2014
 
-Final project time
+Quiz review & final project time
 
 #### Homework (due Wedneday, June 25, 2014)
 
 - Download [Processing](http://processing.org) and do the first three tutorials: [Getting Started](http://processing.org/tutorials/gettingstarted), [Overview](http://processing.org/tutorials/overview), and [Coordinate System and Shapes](http://processing.org/tutorials/drawing).
 - Come up with three topics you want to learn about in our remaining time.
+
+### Wednesday, June 25, 2014
+
+More final project time
+
+### Thursday, June 26, 2014
+
+Lecture:
+- Powering your Arduino with a battery or power supply
+- Designing and milling circuits -- [here's a great tutorial from Prof. Shiloh](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill).
+
+More final project time
+
 
 
 ## Resources
