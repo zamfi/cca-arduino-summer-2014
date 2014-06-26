@@ -168,7 +168,7 @@ More final project time
 
 Lecture:
 - Powering your Arduino with a battery or power supply
-- Designing and milling circuits -- [here's a great tutorial from Prof. Shiloh](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill).
+- Designing and milling circuits with [Fritzing](http://fritzing.org) and the [OtherMill](http://othermachine.co/products/othermill/) -- [here's a great tutorial from Prof. Shiloh](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill).
 
 More final project time
 
